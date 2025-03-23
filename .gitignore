@@ -9,5 +9,3 @@
 *.idea
 
 /.chroma/
-./chromatext-embedding-bge-m3
-./chromatext-embedding-nomic-embed-text-v1.5-embedding

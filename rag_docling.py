@@ -14,7 +14,6 @@ import tempfile  # 임시 파일 처리
 import os  # 파일 시스템 작업
 import time  # 시간 측정을 위한 모듈 추가
 import subprocess  # 터미널 명령 실행
-import shutil  # 디렉토리 삭제 등 파일 작업
 
 # Streamlit 페이지 기본 설정
 st.set_page_config(
